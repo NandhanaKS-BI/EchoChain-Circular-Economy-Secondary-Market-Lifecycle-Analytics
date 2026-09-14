@@ -130,20 +130,12 @@ EchoChain/
 │
 ├── scrapy_project/
 │
-├── venv/
-│
 ├── .gitignore
 │
-├── EchoChain_Week1_Progress_Report.docx
-├── EchoChain_Week2_Progress_Report.docx
-├── EchoChain_Week3_Progress_Report.docx
-│── EchoChain_Week4_Progress_Report.docx
+├── EchoChain_project_report/
 │
 └── README.md
 ```
-
-> **Note:** The `venv/` directory is a local Python virtual environment and should normally be excluded from version control using `.gitignore`.
-
 ---
 
 # 📅 Weekly Progress
