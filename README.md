@@ -8,13 +8,7 @@ The project focuses on analyzing product lifecycle, Bill of Materials (BOM), war
 
 The project combines internal product data with secondary-market marketplace data and processes the data through a Databricks Lakehouse architecture before presenting the final analytics through Power BI.
 
----
-
-## 👥 Team Members
-
-- **C.M. Subhadra**
-- **Nandhana K.S.**
-
+This project was developed as part of a team project, with both team members contributing across the complete project workflow.
 ---
 
 ## 🎯 Problem Statement
@@ -132,9 +126,7 @@ EchoChain/
 │
 ├── databricks/
 │
-├── powerbi_Nandhana/
-│
-├── PowerBi_Subhadra/
+├── powerbi/
 │
 ├── scrapy_project/
 │
